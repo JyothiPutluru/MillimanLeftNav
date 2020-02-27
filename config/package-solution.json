@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Milliman Left Nav Using Termset",
+    "id": "9f2ba188-b792-4b34-b214-df618af530fa",
+    "version": "1.0.1.2",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/left-nav-from-termset.sppkg"
+  }
+}
